@@ -130,9 +130,9 @@ PLACEHOLDER
 
 ## QuickStart App
 
-There is a demo application with source code that contains samples for each component included in the IntegralUI Web Lite library. It can help you to get started quickly with learning about the components and write tests immediatelly. From [IntegralUI Web Lite - QuickStart]() you can download a demo app for Angular, React and Vanilla JavaScript.
+There is a demo application with source code that contains samples for each component included in the IntegralUI Web Lite library. It can help you to get started quickly with learning about the components and write tests immediatelly. 
 
-A detailed information about each of these quickstart demos is available in ReadMe file, located in the root folder of the demo app.
+From [IntegralUI Web Lite - QuickStart]() you can download a demo app for Angular, React and Vanilla JavaScript. A detailed information about each of these quick-start demos is available in ReadMe file, located in the root folder of the demo app.
 
 
 ## License Information
