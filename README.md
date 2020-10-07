@@ -1,6 +1,6 @@
 # IntegralUI Web Lite, v20.2
 
-IntegralUI Web Lite is a library built on top of Lit Element framework. It consists of native Web Components and services that can help you create modern web applications. 
+IntegralUI Web Lite is an UI library, it consists of native Web Components and services that can help you create modern web applications. 
 
 ![IntegralUI Web Lite 20.2 - Native Web Components](https://www.lidorsystems.com/about/newsletter/images/integralui-web-20.2.png)
 
