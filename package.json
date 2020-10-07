@@ -1,0 +1,38 @@
+{
+    "name": "@lidorsystems/integralui-web-lite",
+    "version": "20.2",
+    "description": "IntegralUI Web Lite - Native Web Components",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lidorsystems/integralui-web-lite.git"
+    },
+    "keywords": [
+        "angular",
+        "react",
+        "vue",
+        "components",
+        "javascript",
+        "ui",
+        "web"
+    ],
+    "author": "Lidor Systems",
+    "license": "SEE LICENSE in LICENSE.md",
+    "homepage": "https://github.com/lidorsystems/integralui-web-lite",
+    "files": [
+        "*.js",
+        "*.md",
+        "*.pdf",
+        "components/*.*",
+        "external/*.*",
+        "icons/*.*",
+        "services/*.*",
+        "styles/*.*",
+        "themes/*.*",
+        "themes/midnight/*.*",
+        "themes/office/*.*",
+        "wrappers/*.*"
+    ]
+}
