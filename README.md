@@ -2,7 +2,7 @@
 
 IntegralUI Web Lite is a library built on top of Lit Element framework. It consists of native Web Components and services that can help you create modern web applications. 
 
-![IntegralUI Web Lite 20.2 - 20+ Native Web Components](https://www.lidorsystems.com/about/newsletter/images/integralui-web-20.2.png)
+[IntegralUI Web Lite 20.2 - Native Web Components](https://www.lidorsystems.com/about/newsletter/images/integralui-web-20.2.png)
 
 <b>Note</b> This library is a light version of [IntegralUI Web](https://github.com/lidorsystems/integralui-web.git). Some of the component features are excluded from this version.
 
@@ -60,7 +60,7 @@ Here is a brief overview of what is included:
 
 ## Dependencies
 
-IntegralUI Web Lite is built on top of [LitElement](https://github.com/Polymer/lit-element). All necessary files from this library are already included in the /external subfolder of this repository.
+IntegralUI Web Lite is built on top of [LitElement](https://github.com/Polymer/lit-element). All necessary files from that library are already included in the /external subfolder of this repository.
 
 
 ## DEMO
@@ -101,7 +101,7 @@ import IntegralUITreeView from '@lidorsystems/integralui-web-lite/components/int
 ### Vanilla JavaScript
 
 ```bash
-&lt;script type="module" src="@lidorsystems/integralui-web-lite/components/integralui.treeview.js"&gt;&lt;/script&gt;
+<script type="module" src="@lidorsystems/integralui-web-lite/components/integralui.treeview.js"></script>
 ```
 
 
@@ -120,7 +120,7 @@ Follow these steps:
 2. Set the resourcePath property of IntegralUI Web components to point to the location set in your /public folder. In this case, for TreeView for example:
 
 ```bash
-&lt;IntegralUITreeViewComponent resourcePath="integralui/icons"&gt;&lt;/IntegralUITreeViewComponent&gt;
+<IntegralUITreeViewComponent resourcePath="integralui/icons"></IntegralUITreeViewComponent>
 ```
 
 ### Vanilla JavaScript
