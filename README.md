@@ -76,12 +76,6 @@ Install the repository by running
 npm install https://github.com/lidorsystems/integralui-web-lite.git
 ```
 
-or directly from NPM
-
-```bash
-npm i integralui-web-lite
-```
-
 Open your application and add a reference to a component you want to use. For example, if you are using the IntegralUI TreeView component:</p>
 
 ### Angular
