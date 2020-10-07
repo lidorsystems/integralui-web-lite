@@ -2,7 +2,7 @@
 
 IntegralUI Web Lite is a library built on top of Lit Element framework. It consists of native Web Components and services that can help you create modern web applications. 
 
-[IntegralUI Web Lite 20.2 - Native Web Components](https://www.lidorsystems.com/about/newsletter/images/integralui-web-20.2.png)
+![IntegralUI Web Lite 20.2 - Native Web Components](https://www.lidorsystems.com/about/newsletter/images/integralui-web-20.2.png)
 
 <b>Note</b> This library is a light version of [IntegralUI Web](https://github.com/lidorsystems/integralui-web.git). Some of the component features are excluded from this version.
 
@@ -93,7 +93,7 @@ import '@lidorsystems/integralui-web-lite/components/integralui.treeview.js';
 ### React
 
 ```bash
-import IntegralUITreeView from '@lidorsystems/integralui-web-lite/components/integralui.treeview.js';
+import IntegralUITreeViewComponent from '@lidorsystems/integralui-web-lite/wrappers/react.integralui.treeview.js';
 ```
 
 <b>Note</b>   Currently [ReactJS doesn't have full support for Web Components](https://custom-elements-everywhere.com/#react). Mainly because of the way data is passed to the component via attributes and their own synthetic event system. For this reason, you can use available wrappers located under /wrappers directory, which are ReactJS components that provide all public API from an IntegralUI component.</p>
@@ -130,7 +130,7 @@ PLACEHOLDER
 
 ## QuickStart App
 
-There is a demo application with source code that contains samples for each component included in the IntegralUI Web Lite library. It can help you to get started quickly with learning about the components and write tests immediatelly. There is a separate demo for: Angular, React and Vanilla JavaScript, which you can dowloand it from here: [IntegralUI Web Lite - QuickStart]().
+There is a demo application with source code that contains samples for each component included in the IntegralUI Web Lite library. It can help you to get started quickly with learning about the components and write tests immediatelly. From [IntegralUI Web Lite - QuickStart]() you can download a demo app for Angular, React and Vanilla JavaScript.
 
 A detailed information about each of these quickstart demos is available in ReadMe file, located in the root folder of the demo app.
 
