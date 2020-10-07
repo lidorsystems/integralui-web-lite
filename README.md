@@ -79,7 +79,7 @@ npm install https://github.com/lidorsystems/integralui-web-lite.git
 or directly from NPM
 
 ```bash
-npm i @lidorsystems/integralui-web-lite
+npm i integralui-web-lite
 ```
 
 Open your application and add a reference to a component you want to use. For example, if you are using the IntegralUI TreeView component:</p>
@@ -87,13 +87,13 @@ Open your application and add a reference to a component you want to use. For ex
 ### Angular
 
 ```bash
-import '@lidorsystems/integralui-web-lite/components/integralui.treeview.js';
+import 'integralui-web-lite/components/integralui.treeview.js';
 ```
 
 ### React
 
 ```bash
-import IntegralUITreeViewComponent from '@lidorsystems/integralui-web-lite/wrappers/react.integralui.treeview.js';
+import IntegralUITreeViewComponent from 'integralui-web-lite/wrappers/react.integralui.treeview.js';
 ```
 
 <b>Note</b>   Currently [ReactJS doesn't have full support for Web Components](https://custom-elements-everywhere.com/#react). Mainly because of the way data is passed to the component via attributes and their own synthetic event system. For this reason, you can use available wrappers located under /wrappers directory, which are ReactJS components that provide all public API from an IntegralUI component.</p>
@@ -101,7 +101,7 @@ import IntegralUITreeViewComponent from '@lidorsystems/integralui-web-lite/wrapp
 ### Vanilla JavaScript
 
 ```bash
-<script type="module" src="@lidorsystems/integralui-web-lite/components/integralui.treeview.js"></script>
+<script type="module" src="integralui-web-lite/components/integralui.treeview.js"></script>
 ```
 
 
@@ -116,7 +116,7 @@ PLACEHOLDER
 ### React
 
 Follow these steps:
-1. Copy/Paste the content of the @lidorsystems/integralui-web-lite/icons folder under /public/integralui/icons subfolder in your React application. 
+1. Copy/Paste the content of the integralui-web-lite/icons folder under /public/integralui/icons subfolder in your React application. 
 2. Set the resourcePath property of IntegralUI Web components to point to the location set in your /public folder. In this case, for TreeView for example:
 
 ```bash
