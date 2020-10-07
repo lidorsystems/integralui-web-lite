@@ -26,4 +26,3 @@ const iuiAccordionDefaultStyle = css`
 `;
 
 export { iuiAccordionDefaultStyle };
-//# sourceMappingURL=integralui.accordion.style.js.map

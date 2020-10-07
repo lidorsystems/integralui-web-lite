@@ -142,4 +142,3 @@ const iuiTabStripDefaultStyle = css`
 `;
 
 export { iuiTabStripDefaultStyle };
-//# sourceMappingURL=integralui.tabstrip.style.js.map

@@ -105,7 +105,13 @@ Because of the web component specification that defines URLs to be always relati
 
 ### Angular
 
-PLACEHOLDER
+Follow these steps:
+1. Copy/Paste the content of the integralui-web-lite/icons folder under /assets/integralui/icons subfolder in your React application. 
+2. Set the resourcePath property of IntegralUI Web components to point to the location set in your /assets folder. In this case, for TreeView for example:
+
+```bash
+<iui-treeview [resourcePath]="'assets/integralui/icons'"></iui-treeview>
+```
 
 ### React
 
@@ -119,7 +125,11 @@ Follow these steps:
 
 ### Vanilla JavaScript
 
-PLACEHOLDER
+Set the resourcePath property of IntegralUI Web components to point to /integralui-web-lite/icons folder. In this case, for TreeView for example:
+
+```bash
+<iui-treeview resource-path="../../integralui-web-lite/icons"></iui-treeview>
+```
 
 
 ## QuickStart App

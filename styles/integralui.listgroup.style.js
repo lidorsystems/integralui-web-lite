@@ -97,4 +97,3 @@ const iuiListGroupDefaultStyle = css`
 `;
 
 export { iuiListGroupDefaultStyle };
-//# sourceMappingURL=integralui.listgroup.style.js.map

@@ -97,4 +97,3 @@ const iuiScrollBarStyle = css`
 `;
 
 export { iuiScrollBarStyle };
-//# sourceMappingURL=integralui.scrollbar.style.js.map

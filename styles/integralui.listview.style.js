@@ -29,4 +29,3 @@ const iuiListViewDefaultStyle = css`
 `;
 
 export { iuiListViewDefaultStyle };
-//# sourceMappingURL=integralui.listview.style.js.map

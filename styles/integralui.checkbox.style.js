@@ -62,4 +62,3 @@ const iuiCheckBoxDefaultStyle = css`
     `;
 
 export { iuiCheckBoxDefaultStyle };
-//# sourceMappingURL=integralui.checkbox.style.js.map

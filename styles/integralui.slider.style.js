@@ -56,4 +56,3 @@ const iuiSliderDefaultStyle = css`
 `;
 
 export { iuiSliderDefaultStyle };
-//# sourceMappingURL=integralui.slider.style.js.map

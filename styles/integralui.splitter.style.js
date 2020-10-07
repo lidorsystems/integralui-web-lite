@@ -76,4 +76,3 @@ const iuiSplitterDefaultStyle = css`
 `;
 
 export { iuiSplitterDefaultStyle };
-//# sourceMappingURL=integralui.splitter.style.js.map

@@ -367,4 +367,3 @@ const iuiHeaderItemDefaultStyle = css`
 `;
 
 export { iuiHeaderItemDefaultStyle };
-//# sourceMappingURL=integralui.header.style.js.map

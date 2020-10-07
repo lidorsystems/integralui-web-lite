@@ -42,4 +42,3 @@ const iuiButtonDefaultStyle = css`
 `;
 
 export { iuiButtonDefaultStyle };
-//# sourceMappingURL=integralui.button.style.js.map

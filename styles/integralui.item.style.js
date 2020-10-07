@@ -41,4 +41,3 @@ const iuiItemDefaultStyle = css`
 `;
 
 export { iuiItemDefaultStyle };
-//# sourceMappingURL=integralui.item.style.js.map

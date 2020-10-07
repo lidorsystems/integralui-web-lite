@@ -73,4 +73,3 @@ const iuiPaginatorDefaultStyle = css`
 `;
 
 export { iuiPaginatorDefaultStyle };
-//# sourceMappingURL=integralui.paginator.style.js.map

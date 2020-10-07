@@ -164,4 +164,3 @@ const iuiTreeItemDefaultStyle = css`
 `;
 
 export { iuiTreeItemDefaultStyle };
-//# sourceMappingURL=integralui.treeitem.style.js.map

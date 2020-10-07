@@ -45,4 +45,3 @@ const iuiRatingDefaultStyle = css`
 `;
 
 export { iuiRatingDefaultStyle };
-//# sourceMappingURL=integralui.rating.style.js.map

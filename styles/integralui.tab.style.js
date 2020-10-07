@@ -72,4 +72,3 @@ const iuiTabDefaultStyle = css`
 `;
 
 export { iuiTabDefaultStyle };
-//# sourceMappingURL=integralui.tab.style.js.map

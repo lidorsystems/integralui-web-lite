@@ -186,4 +186,3 @@ const iuiGroupBoxDefaultStyle = css`
 `;
 
 export { iuiGroupBoxDefaultStyle };
-//# sourceMappingURL=integralui.groupbox.style.js.map

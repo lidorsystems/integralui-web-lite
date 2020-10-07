@@ -182,4 +182,3 @@ const iuiSplitContainerDefaultStyle = css`
 `;
 
 export { iuiSplitContainerDefaultStyle };
-//# sourceMappingURL=integralui.splitcontainer.style.js.map

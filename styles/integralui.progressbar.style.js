@@ -37,4 +37,3 @@ const iuiProgressBarDefaultStyle = css`
 `;
 
 export { iuiProgressBarDefaultStyle };
-//# sourceMappingURL=integralui.progressbar.style.js.map

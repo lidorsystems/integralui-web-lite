@@ -48,4 +48,3 @@ const iuiTreeViewDefaultStyle = css`
 `;
 
 export { iuiTreeViewDefaultStyle };
-//# sourceMappingURL=integralui.treeview.style.js.map
