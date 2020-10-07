@@ -1,39 +1,18 @@
 {
-    "name": "lidorsystems/integralui-web-lite",
-    "version": "20.2",
-    "description": "IntegralUI Web Lite - Native Web Components",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/lidorsystems/integralui-web-lite.git"
-    },
-    "keywords": [
-        "angular",
-        "react",
-        "vue",
-        "components",
-        "javascript",
-        "ui",
-        "web",
-        "web-components"
-    ],
-    "author": "Lidor Systems",
-    "license": "SEE LICENSE in LICENSE.md",
-    "homepage": "https://github.com/lidorsystems/integralui-web-lite",
-    "files": [
-        "*.js",
-        "*.md",
-        "*.pdf",
-        "components/*.*",
-        "external/*.*",
-        "icons/*.*",
-        "services/*.*",
-        "styles/*.*",
-        "themes/*.*",
-        "themes/midnight/*.*",
-        "themes/office/*.*",
-        "wrappers/*.*"
-    ]
+  "name": "integralui-web-lite",
+  "version": "20.2.0",
+  "description": "IntegralUI Web Lite is a library built on top of Lit Element framework. It consists of native Web Components and services that can help you create modern web applications.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidorsystems/integralui-web-lite.git"
+  },
+  "author": "Lidor Systems",
+  "license": "SEE LICENSE in LICENSE.md",
+  "homepage": "https://github.com/lidorsystems/integralui-web-lite",
+  "bugs": {
+    "url": "https://github.com/lidorsystems/integralui-web-lite/issues"
+  }
 }
