@@ -1,5 +1,5 @@
 {
-    "name": "@lidorsystems/integralui-web-lite",
+    "name": "lidorsystems/integralui-web-lite",
     "version": "20.2",
     "description": "IntegralUI Web Lite - Native Web Components",
     "scripts": {
@@ -16,7 +16,8 @@
         "components",
         "javascript",
         "ui",
-        "web"
+        "web",
+        "web-components"
     ],
     "author": "Lidor Systems",
     "license": "SEE LICENSE in LICENSE.md",
